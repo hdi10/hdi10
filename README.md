@@ -3,6 +3,7 @@
 > 
 > **"[...] Only from the self and its continuing decision can one grow beyond the self; no objective shell can contain us, we must build our own house."**  
 > — Theodor W. Adorno, c. 1923, quoted in *Mourning and Consolation of Music* (Phaïdra Archive, University of Vienna)
+
 [![GitHub hdi10](https://img.shields.io/github/followers/hdi10?label=Follow&style=social)](https://github.com/hdi10)
 ---
 # ![About me](assets/aboutme.png)
