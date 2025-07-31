@@ -9,7 +9,6 @@
 # ![About me](assets/aboutme.png)
 
 ## hdi10
-<img src="assets/zelkulon.svg" align="right" width="360">
 I love technology related to IoT and Android.
 
 *   Founder of [Zelkulon UG (haftungsbeschränkt)](https://zelkulon.com)
@@ -17,6 +16,8 @@ I love technology related to IoT and Android.
 *   Building scalable microservice platforms for Web & Mobile
 
 *   Working on smart IoT solutions and connected Android apps
+
+# ![About me](assets/zelkulon.svg)
 
 Currently developing products and services in:
 
